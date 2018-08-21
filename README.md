@@ -17,7 +17,7 @@ If you want to compile it in command line with gradle, go to the project directo
 
 Debug mode:
 
-`./gradlew assembleDebug`
+`./gradlew assembleDebug --debug`
 
 Release mode:
 
